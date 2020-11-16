@@ -11,3 +11,4 @@ Project is created with:
 * Java (Swing)
 
 ## Launching
+Simply download Tetris.jar and launch it. You need to have Java installed on your machine.
